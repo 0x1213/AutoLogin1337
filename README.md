@@ -66,6 +66,11 @@ Auto Login 1337 is a Tampermonkey script that automates the login process for th
 4. **Save and Enable the Script:**
    - Click on the `File` menu and select `Save`.
    - Ensure the script is enabled in the Tampermonkey dashboard.
+  
+5. **Star this Repository:**
+   - If you find this script useful, please consider starring the repository on GitHub. It helps others discover it and shows your support.
+   [![GitHub stars](https://img.shields.io/github/stars/0x1213/AutoLogin1337.svg?style=social&label=Star&maxAge=2592000)](https://github.com/0x1213/AutoLogin1337/stargazers)
+
 
 ## Usage
 - Navigate to [1337.ma login page](https://admission.1337.ma/en/users/sign_in).
